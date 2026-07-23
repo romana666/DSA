@@ -2,7 +2,8 @@
 
 Welcome! 👋
 
-This repository is my personal collection of daily DSA lectures, practice, and solutions. I'm documenting my progress one step at a time while building a strong foundation in problem-solving and C++.
+This repository documents my daily journey of learning Data Structures and Algorithms (DSA). It contains my  practice problems, homework, and C++ solutions as I continue improving my problem-solving skills.
+
 I'm currently following the **Apna College DSA course on YouTube** and using this repository to organize everything I learn along the way.
 
 ## 📂 Repository Structure
