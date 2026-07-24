@@ -1,6 +1,5 @@
 # 📚 DSA Code Repository
 
-Welcome! 👋
 
 This repository documents my daily journey of learning Data Structures and Algorithms (DSA). It contains my  practice problems, homework, and C++ solutions as I continue improving my problem-solving skills.
 
