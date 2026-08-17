@@ -2,6 +2,7 @@
  Minimum of 2 value
 */
 
+
 #include<iostream>
 using namespace std;
 
